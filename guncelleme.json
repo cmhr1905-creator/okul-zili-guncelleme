@@ -1,6 +1,6 @@
 {
-  "surum": "3.2.1",
-  "deb": "https://github.com/cmhr1905/okul-zili-guncelleme/releases/download/v3.2.1/bilsem-zil_3.2.1_all.deb",
-  "sha256": "a7df52c7e1524911437fe0b06ee238ace25518a350e9442ff5d3382f33d54298",
-  "notlar": "Düzeltme: tahta son ders zilinden hemen sonra kapanmıyor; kapanmadan önce her zaman 30 sn uyarı çıkar."
+  "surum": "3.2.2",
+  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.2.2/bilsem-zil_3.2.2_all.deb",
+  "sha256": "d46d029cd31a98bdd1705bf7cc2d86775db4fccbf22eca51b9c3e4288c3c8714",
+  "notlar": "Tahtalar artık yeni sürümleri kendiliğinden görür (güncelleme adresi uygulamaya eklendi)."
 }

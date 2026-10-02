@@ -1,0 +1,6 @@
+{
+  "surum": "3.2.1",
+  "deb": "https://github.com/KULLANICI/okul-zili-guncelleme/releases/download/v3.2.1/bilsem-zil_3.2.1_all.deb",
+  "sha256": "a7df52c7e1524911437fe0b06ee238ace25518a350e9442ff5d3382f33d54298",
+  "notlar": "Düzeltme: tahta son ders zilinden hemen sonra kapanmıyor; kapanmadan önce her zaman 30 sn uyarı çıkar."
+}

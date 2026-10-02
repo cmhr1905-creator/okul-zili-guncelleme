@@ -1,6 +1,9 @@
 {
-  "surum": "3.2.2",
-  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.2.2/bilsem-zil_3.2.2_all.deb",
-  "sha256": "d46d029cd31a98bdd1705bf7cc2d86775db4fccbf22eca51b9c3e4288c3c8714",
-  "notlar": "Tahtalar artık yeni sürümleri kendiliğinden görür (güncelleme adresi uygulamaya eklendi)."
+  "surum": "3.2.3",
+  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.2.3/bilsem-zil_3.2.3_all.deb",
+  "yedek_deb": [
+    "https://okul-zili-guncelleme.web.app/bilsem-zil_3.2.3_all.deb"
+  ],
+  "sha256": "7f4d8fdc29eb045c61fb52049e12fcfd509e71b1dbb15405a30fe6fc8d106f59",
+  "notlar": "Güncellemeler artık iki sunucudan (Firebase + GitHub) alınıyor; okul ağı birini engellese de güncelleme gelir."
 }

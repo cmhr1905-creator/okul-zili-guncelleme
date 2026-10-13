@@ -1,9 +1,9 @@
 {
-  "surum": "3.5.0",
-  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.5.0/bilsem-zil_3.5.0_all.deb",
+  "surum": "3.6.0",
+  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.6.0/bilsem-zil_3.6.0_all.deb",
   "yedek_deb": [
-    "https://okul-zili-guncelleme.web.app/bilsem-zil_3.5.0_all.deb"
+    "https://okul-zili-guncelleme.web.app/bilsem-zil_3.6.0_all.deb"
   ],
-  "sha256": "a9469511a2868deaeb12bb0e8dc4d0bcb44d84bf6a577c818917d813b33cc42e",
-  "notlar": "Karekodla öğretmen girişi: kilitte, Ayarlar'da ve Zil düğmesinde şifre yerine karekod çıkar; eşleştirilmiş öğretmen telefonunun kamerasıyla okutunca tahta açılır. Telefonu eşleştirmek için Ayarlar > Zil ve ekran > Öğretmen girişi bölümündeki karekodu bir kez okutun. İnternet yoksa 'Kodu yaz' ile telefondaki 6 haneli kod girilir. MEB ağında güncelleme bağlantısı da sağlamlaştırıldı."
+  "sha256": "08cc874a2a373e9d8e8470f2cdc885e4f76070aab305c61d5228b6b965822cff",
+  "notlar": "Öğretmen telefonu artık kod yazmadan eşleşir: Ayarlar'daki karekodu telefonla okutun, tahtada ✓ çıkar ve kendiliğinden kaydedilir. Telefon eşleşene kadar giriş şifreyle sürer. Eşleştikten sonra kilitte, Ayarlar'da ve Zil düğmesinde çıkan karekodu okutmak yeter. Tahta internete ulaşamazsa kilitte kalınmasın diye 'Kodu yaz' ekranında şifre de geçer."
 }

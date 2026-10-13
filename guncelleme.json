@@ -1,9 +1,9 @@
 {
-  "surum": "3.2.3",
-  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.2.3/bilsem-zil_3.2.3_all.deb",
+  "surum": "3.3.0",
+  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.3.0/bilsem-zil_3.3.0_all.deb",
   "yedek_deb": [
-    "https://okul-zili-guncelleme.web.app/bilsem-zil_3.2.3_all.deb"
+    "https://okul-zili-guncelleme.web.app/bilsem-zil_3.3.0_all.deb"
   ],
-  "sha256": "7f4d8fdc29eb045c61fb52049e12fcfd509e71b1dbb15405a30fe6fc8d106f59",
-  "notlar": "Güncellemeler artık iki sunucudan (Firebase + GitHub) alınıyor; okul ağı birini engellese de güncelleme gelir."
+  "sha256": "944b758b8e91bc09223e8dfcf63797aa8b3d50ea6d3debfe5b5e3bc6d58f2c4c",
+  "notlar": "Her teneffüsün süresi ayrı ayrı ayarlanabilir (dakika dakika). Tam 20 dakikalık teneffüs 'Beslenme teneffüsü' olarak gösterilir. Kenar şeritteki Zil düğmesi artık öğretmen şifresi ister; öğrenciler zili çalamaz."
 }

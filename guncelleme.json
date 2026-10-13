@@ -1,9 +1,9 @@
 {
-  "surum": "3.4.1",
-  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.4.1/bilsem-zil_3.4.1_all.deb",
+  "surum": "3.5.0",
+  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.5.0/bilsem-zil_3.5.0_all.deb",
   "yedek_deb": [
-    "https://okul-zili-guncelleme.web.app/bilsem-zil_3.4.1_all.deb"
+    "https://okul-zili-guncelleme.web.app/bilsem-zil_3.5.0_all.deb"
   ],
-  "sha256": "89cf3e1fa76790ac9bdf4f355f682c1b7e1cbd30bf14fccd9e5716a3c71ed915",
-  "notlar": "Telefon kodu kurulumu düzeltildi: karekodu okuttuktan sonra telefondaki 6 haneli kodu karekodun hemen altındaki kutuya yazıp Doğrula'ya basın, sonra Kaydet. Doğrulanmadan Kaydet'e basılırsa artık uyarı çıkar."
+  "sha256": "a9469511a2868deaeb12bb0e8dc4d0bcb44d84bf6a577c818917d813b33cc42e",
+  "notlar": "Karekodla öğretmen girişi: kilitte, Ayarlar'da ve Zil düğmesinde şifre yerine karekod çıkar; eşleştirilmiş öğretmen telefonunun kamerasıyla okutunca tahta açılır. Telefonu eşleştirmek için Ayarlar > Zil ve ekran > Öğretmen girişi bölümündeki karekodu bir kez okutun. İnternet yoksa 'Kodu yaz' ile telefondaki 6 haneli kod girilir. MEB ağında güncelleme bağlantısı da sağlamlaştırıldı."
 }

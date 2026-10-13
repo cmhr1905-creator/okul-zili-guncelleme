@@ -1,9 +1,9 @@
 {
-  "surum": "3.3.0",
-  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.3.0/bilsem-zil_3.3.0_all.deb",
+  "surum": "3.4.0",
+  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.4.0/bilsem-zil_3.4.0_all.deb",
   "yedek_deb": [
-    "https://okul-zili-guncelleme.web.app/bilsem-zil_3.3.0_all.deb"
+    "https://okul-zili-guncelleme.web.app/bilsem-zil_3.4.0_all.deb"
   ],
-  "sha256": "944b758b8e91bc09223e8dfcf63797aa8b3d50ea6d3debfe5b5e3bc6d58f2c4c",
-  "notlar": "Her teneffüsün süresi ayrı ayrı ayarlanabilir (dakika dakika). Tam 20 dakikalık teneffüs 'Beslenme teneffüsü' olarak gösterilir. Kenar şeritteki Zil düğmesi artık öğretmen şifresi ister; öğrenciler zili çalamaz."
+  "sha256": "db8a950d9e2aab882ce206dd486f7622ecd9188f82e171600ccf5e640703f984",
+  "notlar": "Öğle arası istediğiniz teneffüse konabilir (ör. cuma namazı için 5. dersten sonra). Öğretmen girişi artık telefondaki 6 haneli kodla da yapılabilir (Ayarlar > Zil ve ekran > Öğretmen girişi, karekodla kurulur). Şifre tuşlarının yeri her açılışta karışır; 3 hatalı denemeden sonra bekleme süresi başlar."
 }

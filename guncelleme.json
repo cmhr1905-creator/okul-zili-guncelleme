@@ -1,9 +1,9 @@
 {
-  "surum": "3.8.0",
-  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.8.0/bilsem-zil_3.8.0_all.deb",
+  "surum": "3.9.0",
+  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.9.0/bilsem-zil_3.9.0_all.deb",
   "yedek_deb": [
-    "https://okul-zili-guncelleme.web.app/bilsem-zil_3.8.0_all.deb"
+    "https://okul-zili-guncelleme.web.app/bilsem-zil_3.9.0_all.deb"
   ],
-  "sha256": "a5977f9cbc4925e7fd5c19c7306368acfa759dea113d69428007fa3205ae7aa1",
-  "notlar": "Gürültü ölçer: ders sırasında sınıfın sesi şeritte yeşil/sarı/turuncu/kırmızı çubukta gösterilir, uzun süre kırmızıda kalınca uyarı verir. Ayarlar > Gürültü ölçer'den açılır (varsayılan kapalı). Ses kaydedilmez, yalnız ses düzeyi ölçülür."
+  "sha256": "7829baae17208f06dc15855ce670032d5b1abc369cf26f6ffd645ec896c31cd9",
+  "notlar": "Sınıf araçları: şeritteki Araçlar düğmesiyle zamanlayıcı, kronometre, kura çarkı, gruplar (2-6 kişilik), puan tablosu, büyük ses ölçer, çalışma modu levhası, zar ve rastgele sayı. Sınıf listeleri Ayarlar > Sınıf araçları'ndan girilir (e-Okul listesi yapıştırılabilir); adlar yalnız tahtada saklanır."
 }

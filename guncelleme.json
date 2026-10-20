@@ -1,9 +1,9 @@
 {
-  "surum": "3.9.1",
-  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.9.1/bilsem-zil_3.9.1_all.deb",
+  "surum": "3.11.0",
+  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.11.0/bilsem-zil_3.11.0_all.deb",
   "yedek_deb": [
-    "https://okul-zili-guncelleme.web.app/bilsem-zil_3.9.1_all.deb"
+    "https://okul-zili-guncelleme.web.app/bilsem-zil_3.11.0_all.deb"
   ],
-  "sha256": "2e833f288ebd9259be453a52818aa7b24e225e30f766ec470914a50b2bcb2f04",
-  "notlar": "Araçlar artık şeritte fihrist: Araçlar düğmesi günün akışının yerinde araç listesini açar, seçilen araç şeridin yanından kayan bir çekmecede açılır (Tam ekran düğmesiyle büyür). Çekmece şeridin arkasında kalmaz, Kapat düğmesi her zaman görünür."
+  "sha256": "87781766651e0f5f2931f0c377ebca05cf0bd913736dcc56804dc9692ddb2e4b",
+  "notlar": "Araçlar şeridin yanında renkli defter sekmeleri olarak açılır; araç önce sekmesinin yanında küçük bir kutuda açılır (Tam ekran ile büyür). Puan tablosunda takım adları ve puan adımı (1/5/10/100). Çark ve gruplarda ses efekti. Ses ölçerde uyuyan canavar. Arduino sınıf sensörü desteği: CO2, sıcaklık, nem, havasızlık uyarısı (kutu takılı değilse hiçbir şey değişmez)."
 }

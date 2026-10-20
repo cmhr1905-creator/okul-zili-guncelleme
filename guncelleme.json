@@ -1,9 +1,9 @@
 {
-  "surum": "3.7.0",
-  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.7.0/bilsem-zil_3.7.0_all.deb",
+  "surum": "3.8.0",
+  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.8.0/bilsem-zil_3.8.0_all.deb",
   "yedek_deb": [
-    "https://okul-zili-guncelleme.web.app/bilsem-zil_3.7.0_all.deb"
+    "https://okul-zili-guncelleme.web.app/bilsem-zil_3.8.0_all.deb"
   ],
-  "sha256": "4b89ee971a7c1f9645e8cdb76cdefb9360a20b2573ab641db3ecce1a81a31c8b",
-  "notlar": "Ayarlar ekranı yenilendi: soldaki menüden Kurum, Ders saatleri, Ders adları, Zil, Teneffüs ekranı, Öğretmen girişi, Tahta ve Güncelleme bölümlerine geçilir; ayarlar başlıklı kartlarda gruplandı, açma/kapama ayarları büyük anahtarlarla yapılır, seyrek kullanılanlar 'Gelişmiş' bölümlerinde."
+  "sha256": "a5977f9cbc4925e7fd5c19c7306368acfa759dea113d69428007fa3205ae7aa1",
+  "notlar": "Gürültü ölçer: ders sırasında sınıfın sesi şeritte yeşil/sarı/turuncu/kırmızı çubukta gösterilir, uzun süre kırmızıda kalınca uyarı verir. Ayarlar > Gürültü ölçer'den açılır (varsayılan kapalı). Ses kaydedilmez, yalnız ses düzeyi ölçülür."
 }

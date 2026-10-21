@@ -1,9 +1,9 @@
 {
-  "surum": "3.12.0",
-  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.12.0/bilsem-zil_3.12.0_all.deb",
+  "surum": "3.13.0",
+  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.13.0/bilsem-zil_3.13.0_all.deb",
   "yedek_deb": [
-    "https://okul-zili-guncelleme.web.app/bilsem-zil_3.12.0_all.deb"
+    "https://okul-zili-guncelleme.web.app/bilsem-zil_3.13.0_all.deb"
   ],
-  "sha256": "18cdf704d420dd21e0098ed74714e317cbea959294188904d8858cc41c52d715",
-  "notlar": "Gürültü uyarısında uyanmış canavar; şerit ve araç sekmeleri açık uygulamaların altında kalır; fihrist sekmeleri üst üste binen yuvarlak sayfalar"
+  "sha256": "157eca652f440698c39a868601c28076136ebc03a4933fb30b0a92a51b87e5c1",
+  "notlar": "Çalışma modunda mevsime uygun görüntülü çalışma müziği: her gün mevsime göre başka bir sakin caz videosu; üstte çalışma modu ve kalan süre; Küçült, Başka video, Duraklat, ses. Süre dolunca müzik kısılır, teneffüste kapanır. Gömülü tarayıcı (gir1.2-webkit2-4.1) yoksa video tarayıcıda açılır."
 }

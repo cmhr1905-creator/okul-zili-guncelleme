@@ -1,9 +1,9 @@
 {
-  "surum": "3.14.1",
-  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.14.1/bilsem-zil_3.14.1_all.deb",
+  "surum": "3.15.0",
+  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.15.0/bilsem-zil_3.15.0_all.deb",
   "yedek_deb": [
-    "https://okul-zili-guncelleme.web.app/bilsem-zil_3.14.1_all.deb"
+    "https://okul-zili-guncelleme.web.app/bilsem-zil_3.15.0_all.deb"
   ],
-  "sha256": "f1cea0f30e7729131bc3a5c7d6a1ef20fffb770751c430f942c05973c5042c8c",
-  "notlar": "Çalışma müziği videosu artık Mod kutusunun çerçevesinden taşmıyor (küçük kutuda ve tam ekranda). Videonun otomatik altyazısı kapatıldı."
+  "sha256": "f1f829fe48eb77a266ac619d69884dfc2d0284dbf64ae898e883bdde1a74cd3e",
+  "notlar": "Ses ölçerde canavarın yerine robot: sessizken laboratuvarında deneyine odaklanır, ses arttıkça zorlanır, en yüksekte alarm çalar. Teneffüs ekranında da aynı robot."
 }

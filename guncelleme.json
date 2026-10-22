@@ -1,9 +1,9 @@
 {
-  "surum": "3.14.0",
-  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.14.0/bilsem-zil_3.14.0_all.deb",
+  "surum": "3.14.1",
+  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.14.1/bilsem-zil_3.14.1_all.deb",
   "yedek_deb": [
-    "https://okul-zili-guncelleme.web.app/bilsem-zil_3.14.0_all.deb"
+    "https://okul-zili-guncelleme.web.app/bilsem-zil_3.14.1_all.deb"
   ],
-  "sha256": "866c39b33fdace9f22012806647676aa13d75798dee72f7149a720bc2e23c623",
-  "notlar": "Çalışma müziği artık ayrı pencerede değil, Mod aracındaki çalışma modu kutusunun içinde oynar; mod, süre ve müzik düğmeleri video açıkken de görünür. Çalışma moduna 30 ve 35 dakikalık süre eklendi."
+  "sha256": "f1cea0f30e7729131bc3a5c7d6a1ef20fffb770751c430f942c05973c5042c8c",
+  "notlar": "Çalışma müziği videosu artık Mod kutusunun çerçevesinden taşmıyor (küçük kutuda ve tam ekranda). Videonun otomatik altyazısı kapatıldı."
 }

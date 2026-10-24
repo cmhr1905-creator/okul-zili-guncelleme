@@ -1,9 +1,9 @@
 {
-  "surum": "3.15.0",
-  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.15.0/bilsem-zil_3.15.0_all.deb",
+  "surum": "3.16.0",
+  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.16.0/bilsem-zil_3.16.0_all.deb",
   "yedek_deb": [
-    "https://okul-zili-guncelleme.web.app/bilsem-zil_3.15.0_all.deb"
+    "https://okul-zili-guncelleme.web.app/bilsem-zil_3.16.0_all.deb"
   ],
-  "sha256": "f1f829fe48eb77a266ac619d69884dfc2d0284dbf64ae898e883bdde1a74cd3e",
-  "notlar": "Ses ölçerde canavarın yerine robot: sessizken laboratuvarında deneyine odaklanır, ses arttıkça zorlanır, en yüksekte alarm çalar. Teneffüs ekranında da aynı robot."
+  "sha256": "32b800393e9f9e5eee58776586c1ed83bdbc3342ddd0038952e1b8e2aa4886fa",
+  "notlar": "Gruplar: sınıfı kaç gruba böleceğinizi de seçebilirsiniz (Kaçar kişi / Kaç grup). Kurulan gruplar yeniden Karıştır'a basılana kadar durur; başka araca, başka sınıfa geçince ya da uygulama yeniden açılınca kaybolmaz."
 }

@@ -1,9 +1,9 @@
 {
-  "surum": "3.16.0",
-  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.16.0/bilsem-zil_3.16.0_all.deb",
+  "surum": "3.17.0",
+  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.17.0/bilsem-zil_3.17.0_all.deb",
   "yedek_deb": [
-    "https://okul-zili-guncelleme.web.app/bilsem-zil_3.16.0_all.deb"
+    "https://okul-zili-guncelleme.web.app/bilsem-zil_3.17.0_all.deb"
   ],
-  "sha256": "32b800393e9f9e5eee58776586c1ed83bdbc3342ddd0038952e1b8e2aa4886fa",
-  "notlar": "Gruplar: sınıfı kaç gruba böleceğinizi de seçebilirsiniz (Kaçar kişi / Kaç grup). Kurulan gruplar yeniden Karıştır'a basılana kadar durur; başka araca, başka sınıfa geçince ya da uygulama yeniden açılınca kaybolmaz."
+  "sha256": "4d5390bc445ae7bf617d090adbcba4cafd957bd27455594063ed216e79ecbc89",
+  "notlar": "Zaman kadranı: süre, kronometre ve çalışma modu mutfak zamanlayıcısı gibi renkli dilimle gösterilir. Teneffüs ekranında merak kartının yerine dört şıklı bilgi yarışması (129 soru, puan, seri, robot tepkileri). Sorular Ayarlar > Bilgi yarışması > Soruları düzenle."
 }

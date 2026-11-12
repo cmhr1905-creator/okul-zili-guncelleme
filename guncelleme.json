@@ -1,9 +1,9 @@
 {
-  "surum": "3.17.0",
-  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.17.0/bilsem-zil_3.17.0_all.deb",
+  "surum": "3.18.0",
+  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.18.0/bilsem-zil_3.18.0_all.deb",
   "yedek_deb": [
-    "https://okul-zili-guncelleme.web.app/bilsem-zil_3.17.0_all.deb"
+    "https://okul-zili-guncelleme.web.app/bilsem-zil_3.18.0_all.deb"
   ],
-  "sha256": "4d5390bc445ae7bf617d090adbcba4cafd957bd27455594063ed216e79ecbc89",
-  "notlar": "Zaman kadranı: süre, kronometre ve çalışma modu mutfak zamanlayıcısı gibi renkli dilimle gösterilir. Teneffüs ekranında merak kartının yerine dört şıklı bilgi yarışması (129 soru, puan, seri, robot tepkileri). Sorular Ayarlar > Bilgi yarışması > Soruları düzenle."
+  "sha256": "f9f263e8f362f0e7ce55af0dd62c46f77a6ec276386531ae0160b64c6aa72304",
+  "notlar": "Yeni araç: Ekran yansıtma. iPad/iPhone (AirPlay) ve Android (USB) ekranı tahtada taşınabilir pencerede açılır. İlk kullanımda Araçlar → Yansıt'ta ya da Ayarlar → Ekran yansıtma'da 'Eksik paketleri kur'a basın (internet ve yönetici şifresi gerekir)."
 }

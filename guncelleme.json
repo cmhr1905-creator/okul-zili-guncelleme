@@ -1,9 +1,9 @@
 {
-  "surum": "3.18.0",
-  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.18.0/bilsem-zil_3.18.0_all.deb",
+  "surum": "3.18.1",
+  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.18.1/bilsem-zil_3.18.1_all.deb",
   "yedek_deb": [
-    "https://okul-zili-guncelleme.web.app/bilsem-zil_3.18.0_all.deb"
+    "https://okul-zili-guncelleme.web.app/bilsem-zil_3.18.1_all.deb"
   ],
-  "sha256": "f9f263e8f362f0e7ce55af0dd62c46f77a6ec276386531ae0160b64c6aa72304",
-  "notlar": "Yeni araç: Ekran yansıtma. iPad/iPhone (AirPlay) ve Android (USB) ekranı tahtada taşınabilir pencerede açılır. İlk kullanımda Araçlar → Yansıt'ta ya da Ayarlar → Ekran yansıtma'da 'Eksik paketleri kur'a basın (internet ve yönetici şifresi gerekir)."
+  "sha256": "4796a057377decec9e0a814f7d9248983446fe4d001670cec54b3d8f6b6d953e",
+  "notlar": "Ekran yansıtma: Mac de AirPlay ile yansıtılabilir; metinler iPad / iPhone / Mac olarak güncellendi."
 }

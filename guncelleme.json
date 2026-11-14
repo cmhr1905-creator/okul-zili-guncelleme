@@ -1,9 +1,9 @@
 {
-  "surum": "3.19.0",
-  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.19.0/bilsem-zil_3.19.0_all.deb",
+  "surum": "3.19.1",
+  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.19.1/bilsem-zil_3.19.1_all.deb",
   "yedek_deb": [
-    "https://okul-zili-guncelleme.web.app/bilsem-zil_3.19.0_all.deb"
+    "https://okul-zili-guncelleme.web.app/bilsem-zil_3.19.1_all.deb"
   ],
-  "sha256": "6fcd45fd37aea21f7643f3028b0af948a663bad761b7c7c78b49c82eac66f4fd",
-  "notlar": "Derse özel duvar kâğıdı: ders başlayınca masaüstü o derse özel görsele geçer (Matematik, Fen, Türkçe, Müzik, İngilizce, Robotik… 15 stil). Logo ve kurum adı hep aynı yerde kalır. Ayarlar → Kurum → 'Derse göre duvar kâğıdı' ile açılır; 'Bu ders için dene' ile önizlenir."
+  "sha256": "87359db00439a02ad1cc58c43bf20f264bb5e538d481a40d38af8d46058c1d2b",
+  "notlar": "Sağdaki şerit artık derse özel duvar kâğıdının renklerine bürünür. Duvar kâğıdı her ders değişir: dersin konusuna yakışan stillerden biri gelir, art arda iki ders aynı görseli almaz."
 }

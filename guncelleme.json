@@ -1,9 +1,9 @@
 {
-  "surum": "3.18.1",
-  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.18.1/bilsem-zil_3.18.1_all.deb",
+  "surum": "3.19.0",
+  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.19.0/bilsem-zil_3.19.0_all.deb",
   "yedek_deb": [
-    "https://okul-zili-guncelleme.web.app/bilsem-zil_3.18.1_all.deb"
+    "https://okul-zili-guncelleme.web.app/bilsem-zil_3.19.0_all.deb"
   ],
-  "sha256": "4796a057377decec9e0a814f7d9248983446fe4d001670cec54b3d8f6b6d953e",
-  "notlar": "Ekran yansıtma: Mac de AirPlay ile yansıtılabilir; metinler iPad / iPhone / Mac olarak güncellendi."
+  "sha256": "6fcd45fd37aea21f7643f3028b0af948a663bad761b7c7c78b49c82eac66f4fd",
+  "notlar": "Derse özel duvar kâğıdı: ders başlayınca masaüstü o derse özel görsele geçer (Matematik, Fen, Türkçe, Müzik, İngilizce, Robotik… 15 stil). Logo ve kurum adı hep aynı yerde kalır. Ayarlar → Kurum → 'Derse göre duvar kâğıdı' ile açılır; 'Bu ders için dene' ile önizlenir."
 }

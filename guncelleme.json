@@ -1,9 +1,9 @@
 {
-  "surum": "3.19.1",
-  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.19.1/bilsem-zil_3.19.1_all.deb",
+  "surum": "3.20.0",
+  "deb": "https://github.com/cmhr1905-creator/okul-zili-guncelleme/releases/download/v3.20.0/bilsem-zil_3.20.0_all.deb",
   "yedek_deb": [
-    "https://okul-zili-guncelleme.web.app/bilsem-zil_3.19.1_all.deb"
+    "https://okul-zili-guncelleme.web.app/bilsem-zil_3.20.0_all.deb"
   ],
-  "sha256": "87359db00439a02ad1cc58c43bf20f264bb5e538d481a40d38af8d46058c1d2b",
-  "notlar": "Sağdaki şerit artık derse özel duvar kâğıdının renklerine bürünür. Duvar kâğıdı her ders değişir: dersin konusuna yakışan stillerden biri gelir, art arda iki ders aynı görseli almaz."
+  "sha256": "5ab55c08afe4620a70ca5ae30f2c28ddf5d197e7ffe5e5a45cfa0b3fe609e7aa",
+  "notlar": "Ses ölçere açma-kapama düğmesi: ders anlatırken 'Ölçer: Kapalı' yapın, mikrofon dinlenmez ve uyarı çıkmaz. Teneffüste ölçer kendiliğinden yeniden açılır."
 }
